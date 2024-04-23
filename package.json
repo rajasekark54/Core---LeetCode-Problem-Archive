@@ -1,0 +1,16 @@
+{
+  "name": "core---leetcode-problem-archive",
+  "version": "1.0.0",
+  "description": "A comprehensive repository storing solutions to LeetCode problems for future reference and skill enhancement.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
