@@ -5,8 +5,6 @@ Given a sorted array of distinct integers and a target value, return the index i
 
 You must write an algorithm with O(log n) runtime complexity.
 
- 
-
 Example 1:
 Input: nums = [1,3,5,6], target = 5
 Output: 2
